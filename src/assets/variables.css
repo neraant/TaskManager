@@ -1,0 +1,35 @@
+:root {
+  --app-bg: #f5f7f8;
+
+  /* Primary (Blue) */
+  --primary-text: #2563eb;
+  --primary-border: #c7d9fb;
+  --primary-bg: #eff6ff;
+  --primary-shadow: rgba(37, 100, 235, 0.3);
+
+  /* Success (Green) */
+  --success-text: #16a34a;
+  --success-border: #c4ebd2;
+  --success-bg: #f0fdf4;
+
+  /* Info (Purple) */
+  --info-text: #9a41ec;
+  --info-border: #e6d0fb;
+  --info-bg: #faf5ff;
+
+  /* Muted (Gray) */
+  --muted-text: #8d96a3;
+  --muted-border: #e2e7ef;
+  --muted-bg: #eaeff4;
+
+  /* Error (Red) */
+  --error-text: #dc2626;
+  --error-border: #fecaca;
+  --error-bg: #fef2f2;
+
+  /* Text */
+  --foreground: #2b2b2b;
+  --text-white: #ffffff;
+  --bg-white: #ffffff;
+  --black-shadow: rgba(0, 0, 0, 0.1);
+}
